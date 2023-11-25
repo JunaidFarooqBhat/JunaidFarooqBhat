@@ -6,7 +6,9 @@
 
 <!-- Introduction Section -->
 <p align="center">
-  Hi, I'm Junaid Farooq Bhat, a Java backend developer with a passion for creating scalable and effective applications. I am a lifelong learner skilled in Java, SQL, Data Structures and Algorithms, Spring Boot, Hibernate, REST API development, and more. With a strong grasp of Git and GitHub, I collaborate with cross-functional teams to deliver high-quality solutions. I thrive on problem-solving, have a track record of successful project execution, and excel in adapting to dynamic environments. I'm actively seeking new opportunities to apply my skills and drive innovation in software development.
+ I am Junaid Farooq Bhat, a dynamic and ambitious software engineer with a keen focus on Java backend development. Armed with expertise in technologies such as Spring Boot, Spring MVC, JPA, JWT, Spring Security, SQL, MySQL, and proficiency in data structures and algorithms, I bring a robust skill set to the world of software engineering.
+Having recently completed a B.Tech in Computer Science Engineering in 2023, my dedication to continuous learning and skill enhancement reflects in my eagerness to polish my existing skill set.
+With a strong foundation in backend development and a comprehensive understanding of key technologies, I am poised to make significant contributions to the field of software engineering. My enthusiasm for tackling challenges head-on and staying abreast of industry trends positions me as a promising professional in the ever-evolving realm of technology.
 </p>
 
 <!-- Badges Section (Add relevant badges like LinkedIn, GitHub, etc.) -->
